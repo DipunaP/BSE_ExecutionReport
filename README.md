@@ -1,4 +1,4 @@
 # BSE_ExecutionReport
 will keep all report
 changed in test
-changed in txtfile
+changed in the txtfile
